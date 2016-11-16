@@ -4,7 +4,9 @@
 
   <groupId>core </groupId>
   <artifactId>Single_Title_Validation</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+ <!--  <version>0.0.1-SNAPSHOT</version> -->
+ <version>${build.version}</version>
+ 
   <packaging>jar</packaging>
 
   <name>Single_Title_Validation</name>
